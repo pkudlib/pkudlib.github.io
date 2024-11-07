@@ -1,0 +1,28 @@
+@charset "utf-8";
+.title_style {
+	font-size: 16pt;
+	font-style: normal;
+	font-weight: bold;
+}
+
+ul {
+	line-height: normal;
+}
+
+body,td,th {
+	font-size: 12pt;
+	font-family: "微软雅黑", "宋体";
+	line-height: normal;
+	font-weight:lighter;
+}
+
+.imgBorder {
+border:2px solid #C3D9FF;
+float:left;
+padding:5px;
+}
+
+.tdImg {
+padding-right:7px;
+vertical-align:middle;
+}

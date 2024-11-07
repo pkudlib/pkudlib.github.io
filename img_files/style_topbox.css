@@ -1,0 +1,36 @@
+.panel_button {
+	Z-INDEX: 20; BACKGROUND: url(images/panel_button.gif); LEFT: 10px; MARGIN-LEFT: auto; WIDTH: 100px; CURSOR: pointer; MARGIN-RIGHT: auto; POSITION: relative; TOP: 0px; HEIGHT: 22px
+}
+.panel_button IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; POSITION: relative; TOP: 10px; BORDER-BOTTOM-STYLE: none
+}
+.panel_button A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; LEFT: 5px; COLOR: #fff; FONT-FAMILY: Arial, Helvetica, sans-serif; POSITION: relative; TOP: 2px; TEXT-DECORATION: none
+}
+.panel_button A:hover {
+	BACKGROUND: url(images/red_arrow.gif) no-repeat 78px 3px; COLOR: #f42602
+}
+#wrapper {
+	MARGIN-LEFT: auto; WIDTH: 100px; MARGIN-RIGHT: auto; TEXT-ALIGN: left
+}
+#toppanel {
+	Z-INDEX: 25; LEFT: 30px; WIDTH: 100px; POSITION: absolute; TEXT-ALIGN: left
+}
+#panel {
+	Z-INDEX: 10; LEFT: 10px; MARGIN-LEFT: auto; OVERFLOW: hidden; WIDTH: 387px; MARGIN-RIGHT: auto; POSITION: relative; TOP: 0px; HEIGHT: 0px; TEXT-ALIGN: left
+}
+#panel_contents {
+	Z-INDEX: -1; BACKGROUND: #000; WIDTH: 390px; POSITION: absolute; HEIGHT: 100%
+}
+#panel H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; RIGHT: 5px; LEFT: 5px; COLOR: #fff; LINE-HEIGHT: 16px; FONT-FAMILY: Arial, Helvetica, sans-serif; POSITION: absolute; TOP: 10px; TEXT-ALIGN: left
+}
+#panel H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; RIGHT: 5px; LEFT: 5px; COLOR: #fff; LINE-HEIGHT: 14px; FONT-FAMILY: Arial, Helvetica, sans-serif; POSITION: absolute; TOP: 30px; TEXT-ALIGN: justify
+}
+#panel H2 A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #efefef
+}
+#panel H2 A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #fff; BACKGROUND-COLOR: #f42602
+}

@@ -1,0 +1,270 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+	Design by Free CSS Templates
+	http://www.freecsstemplates.org
+	Released for free under a Creative Commons Attribution 2.5 License
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>职业规划与领导力发展</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="default.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+#outer #content #secondaryContent p strong {
+	color: #C30;
+}
+-->
+</style>
+</head>
+<body>
+<div id="outer">
+	<div id="header">
+		<h1><a href="index.html">职业规划与领导力发展</a></h1>
+		<h2>2013 Peking University</h2>
+  </div>
+  <div id="menu">
+    <ul>
+      <li class="first"><a href="index.html" accesskey="1" title="">Home</a></li>
+      <li><a href="schedule.html" accesskey="2" title="">2013 Introduction</a></li>
+      <li><a href="reference.html" accesskey="3" title="">Reference</a></li>
+      <li><a href="resource.html" accesskey="4" title="">Resource</a></li>
+      <li><a href="archive.html" accesskey="5" target="_blank">2008~2012 Review</a></li>
+<!--      <li><a href="career09/index.htm" accesskey="6" target="_blank">2009 Review</a></li>  -->
+      <li><a href="contact.html" accesskey="7" title="">Contact Us</a></li>
+    </ul>
+  </div>
+	<div id="content">
+		<div id="xbg1"></div>
+		<div id="primaryContentContainer">
+			<div id="primaryContent">
+				<h2>career planning <br>&amp; Leadership development</h2>
+<h3>一、2013年开课简介与教师安排</h3>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	本课程由张铭教授、赵海燕副教授、蒋云老师共同主持，主要邀请来自国内外各企业的北大计算机系校友担纲，以讲座的方式讲授。讲座主要从创新与创业、在创业中成长、职业道路的选择与规划、学术科研与产业发展等四个方面展开，讲座教师简介域讲座题目参见下表。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课程对校外开放。具体选择时间请关注课程主页。研究生院如果没有开通暑期课，可以找助教登记秋季给学分。校外学生请关注<a href="http://summer.pku.edu.cn/ss/index.jsp" target="_blank">http://summer.pku.edu.cn/ss/index.jsp</a>。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本课程不限制选课年级，欢迎各年级本科生踊跃报名。</p>
+
+<!--
+<p style="color:red">
+重要说明：<br />
+1.第一堂课将布置课程作业，要求3-5人一组，8月10日之前提交。该作业的目的是为了锻炼团队合作能力，要求尽量完整，不完整也可。<br />
+2.选做题目<br />
+&nbsp;&nbsp;(1)显示广告投放购买竞赛<br />
+&nbsp;&nbsp;(2)竞赛平台开发<br />
+&nbsp;&nbsp;(3)微博交友小应用<br />
+&nbsp;&nbsp;(4)团购推荐应用<br />
+&nbsp;&nbsp;(5)@facebook @twitter的小应用<br />
+&nbsp;&nbsp;(6)云计算创业企划书<br />
+<br />
+具体的题目要求我们需要和老师联系之后进行更新，请同学们耐心等待。每个项目没有具体的要求，但是一些例如具有明确方向的应用，最好能够从需求分析等出发，到编码以及文档，能够自成体系，越完整越好。
+
+
+<br />
+<br /><strong>
+重要说明: 7月6日王高飞老师的讲座延后到7月14日下午2点到4点30，地点是理科1号楼1131，请相互转告</strong>
+<br /><strong>
+重要说明: 7月23日王梦秋老师的讲座地点是理教102，请相互转告</strong>
+
+</p>
+-->
+<table>
+  <tr>
+    <th align='center'>时间</th>
+    <th align='center'>嘉宾</th>
+    <th align='center'>主题</th>
+  </tr>
+  <tr class="rowA">
+    <td>7.8</td>
+    <td><strong>马骏</strong>（北大计算机系86级校友，国务院发展研究中心企业研究所研究员）<br>
+        <strong>徐征</strong> (北大86级校友)
+    </td>
+    <td align="center"><p>马骏：信息产业的创新 <br>徐征：信息与金融</p>
+	<!--<p><a href="">讲座ppt</a></p><p><a href="">录音</a></p>-->
+	</td>
+  </tr>
+  <tr class="rowB">
+    <td>7.10</td>
+    <td><strong><a href="http://weibo.com/u/1946548263" target="_blank">阳萌</a></strong>（北大计算机系99级校友，<a href="http://www.oceanwing.com/" target="_blank">海翼电子商务有限公司</a>创始人、CEO）<br>
+    <strong><a href="http://weibo.com/arthurgao" target="_blank">高韬</a></strong>（北大计算机系96级校友，<a href="http://www.oceanwing.com/" target="_blank">海翼电子商务有限公司</a>副总裁）
+	</td>
+    <td><p>“软硬结合 + 电子商务”的创业旅途</p>
+	<!--<p><a href="liulei.pdf">讲座ppt</a></p><p><a href="liulei.MP3">录音</a></p>-->
+	</td>
+  </tr>
+  <tr class="rowA">
+    <td height="59">7.12</td>
+    <td><strong><a href="http://weibo.com/wangyuquan" arget="_blank">王煜全</a></strong>（1994年毕业于北师大，2012年成立<a href="http://www.haiyinfund.com/" target="_blank">海银资本</a>，现专注于社会化应用、无线互联与手机游戏等新兴产业的研究和投资催化）</td>
+    <td><p>新兴产业创业</p>
+	</td>
+  </tr>
+  <tr class="rowB">
+    <td>7.15</td>
+    <td><strong><a href="http://weibo.com/rainswallow" target="_blank">赵岗</a></strong>（北大计算机系96级校友，<a href="http://www.anguanjia.com/" target="_blank">安管佳</a>创始人、CEO） </td>
+    <td align="center"><p>专注创业：做好一件事</p></td>
+  </tr>
+  <tr class="rowA">
+    <td>7.17</td>
+    <td><p> <strong><a href="http://weibo.com/nijinlei" target="_blank">倪金磊</a></strong>（北大计算机系83级本、87级硕，<a href="http://www.upup100.com/" target="_blank">阿帕图英语</a>创始人） </p></td>
+    <td align="center"><p> 对在线教育的理解与创业中的领悟 </p><!--<p><a href="xuweilin.MP3">录音</a></p>--></td>
+  </tr>
+  <tr class="rowB">
+    <td>7.19</td>
+    <td><strong><a href="http://weibo.com/ccyuanyuan" target="_blank">张远</a></strong>(北大计算机系98级校友，<a href="http://www.bokecc.com/" target="_blank">北京梦之窗数码科技有有限公司</a>创始人、CEO）</td>
+    <td align="center"><p>学生创业的经历和体验</p>
+	<!--<p><a href="wanggaofei.pptx">讲座ppt</a></p><p><a href="wanggaofei.MP3">录音</a></p>-->
+	</td>
+ </tr>
+   <tr class="rowB">
+    <td>7.22</td>
+    <td><strong><a href="http://weibo.com/lirenchen" target="_blank">陈利人</a></strong>（清华大学计算机系88级本科和硕士，CMU硕士，盘古搜索CTO）</td>
+    <td align="center"><p>中美创业之差异</p>
+	<!--<p><a href="wanggaofei.pptx">讲座ppt</a></p><p><a href="wanggaofei.MP3">录音</a></p>-->
+	</td>
+ </tr>
+    <tr class="rowB">
+    <td>7.24 </td>
+    <td><strong><a href="http://weibo.com/u/2033880657" target="_blank">李丰</a></strong>（北大化院84级校友。<a href="http://www.idgvc.com/" target="_blank">IDG资本</a>合伙人，侧重于教育消费领域及TMT相关领域的投资）</td>
+    <td align="center"><p>大学生就业选择以及中国互联网的新兴趋势和行业机会</p>
+	<!--<p><a href="wanggaofei.pptx">讲座ppt</a></p><p><a href="wanggaofei.MP3">录音</a></p>-->
+	</td>
+ </tr>
+<tr class="rowA">
+    <td>7.26</td>
+    <td><strong>黄立</strong>（北大计算机系84级校友，2008年加入全方位IT服务及行业解决方案提供商---<a href="http://www.isoftstone.com/cn/default.aspx" target="_blank">软通动力</a>，任高级副总裁及中国区负责人）
+    </td>
+    <td align="center">职业发展的关键因素</td>
+  </tr>
+  <tr class="rowA">
+    <td>7.29</td>
+    <td><strong><a href="http://weibo.com/qz6621" target="_blank">张勤</a></strong>（北大计算机系92级校友，<a href="http://china.alibaba.com/" href="">阿里巴巴集团</a>副总裁，<a href="http://www.etao.com/" target="_blank">一淘</a>和搜索事业部总经理）</td>
+    <td align="center"> <p>电子商务改变生活</p>
+	<!--<p><a href="huweidong.pptx">讲座ppt</a></p><p><a href="huweidong.MP3">录音</a></p>-->
+	</td>
+  </tr>
+  <tr class="rowB">
+    <td>7.31</td>
+    <td><strong>79级Panel</strong>（陈钟，陈向群，梁平等北大79级校友）</td>
+    <td align="center">学术界 vs. 产业界，你准备好了吗？</td>
+  </tr>
+  <tr class="rowA">
+    <td>8.2</td>
+    <td><strong><a href="http://weibo.com/u/2419876533" target="_blank">石文昌</a></strong>（北大计算机系软件学士、中科院软件与理论博士，中国人民大学信息学院教授）</td>
+    <td align="center"><p>大学课堂与职业生涯</p>
+	<!--<p><a href="wangmengqiu.pptx">讲座ppt</a></p><p><a href="wangmengqiu.MP3">录音</a></p>-->
+	</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<h3>二、课程人员信息</h3>
+<p>
+<ul>
+				<li><strong>开课教员： </strong>张铭，mzhang [at] net.pku.edu.cn<a href="mailto:mzhang@net.pku.edu.cn"> </a>, 010-62765825 <br />
+				     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  赵海燕，zhhy [at] sei.pku.edu.cn, 010-62757670 <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;
+					 蒋云，jiangyun [at] pku.edu.cn，010-62755756
+				</li>
+				<li><strong>合作主持人: </strong>李军（北大计算机系86级校友，快创营创始人，天使投资人）<br>
+				赵为（北京融通科技有限公司创始人；历任数家公司高管；投资人）
+				</li>
+				<li><strong>教师微博：</strong>   <span lang="EN-US" xml:lang="EN-US"><a href="http://weibo.com/2191729120" target="_blank">@pkumzhang</a>（发布课件用）</span>,
+					 <span lang="EN-US" xml:lang="EN-US"><a href="http://weibo.com/n/%E5%BC%A0%E9%93%ADPKUCS" target="_blank">@<span lang="EN-US" xml:lang="EN-US">
+					 <span lang="EN-US" xml:lang="EN-US">张铭</span></span>PKUCS</a>（个人微博）</span>;<br>
+					 <span><a href="http://weibo.com/u/1946548263" target="_blank">@Oceanwing阳萌</a></span>;&nbsp;&nbsp;
+					 <span><a href="http://weibo.com/arthurgao" target="_blank">@古道长安</a></span>;&nbsp;&nbsp;
+					 <span><a href="http://weibo.com/wangyuquan" target="_blank">@王煜全</a></span>;&nbsp;&nbsp;
+					 <span><a href="http://weibo.com/u/2033880657" target="_blank">@李丰</a></span>;&nbsp;&nbsp;
+					 <span><a href="http://weibo.com/ccyuanyuan" target="_blank">@张远</a></span>;&nbsp;&nbsp;
+					 <span><a href="http://weibo.com/nijinlei" target="_blank">@UP倪金磊</a></span>;&nbsp;&nbsp;
+					 <span><a href="http://weibo.com/u/2419876533" target="_blank">@石文昌A1</a></span>;&nbsp;&nbsp;
+					 <span><a href="http://weibo.com/rainswallow" target="_blank">@赵岗</a></span>;&nbsp;&nbsp;
+					 <span><a href=http://weibo.com/lirenchen"" target="_blank">@陈利人</a></span>;&nbsp;&nbsp;
+					 <span><a href="http://weibo.com/junl98" target="_blank">@加强营长</a></span>;&nbsp;&nbsp;
+					 <span><a href="http://weibo.com/u/2812121553" target="_blank">@君子夬夬中行无咎</a></span>;&nbsp;&nbsp;
+
+				</li>
+
+				  <li><strong>教师博客:</strong> <br/>张铭 <a href="http://blog.sina.com.cn/pkumzhang" target="_blank">http://blog.sina.com.cn/pkumzhang </a><br/>
+                  </li>
+				  <li><strong>助教信息： </strong>荣小松，rongxiaosong [at] gmail.com <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+				  <li><strong>教学方式： </strong>以课堂讲授为主，穿插大量的课堂讨论，并辅以实际案例分析。 </li>
+				  <li><strong>考核方式： </strong>
+				    <ul>
+				      <li>(1) 课堂上表达与分享的参与程度 20%</li>
+				      <li>(2) 小组活动 20%</li>
+				      <li>(3) 职业规划报告 30%</li>
+				      <li>(4) 课程学习心得报告 30%</li>
+				    </ul>
+				  </li>
+			  </ul>
+</p>
+<p>&nbsp;</p>
+
+<h3>三、“职业规划与领导力发展”暑期课程简介</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	在84级计算机系同学发起的“计算机系校友讲座基金”支持下，2008年暑期张铭教授和赵海燕副教授成功主持了“职业规划与领导力发展”暑期课程，第一届就得到了全校10多所文理院系60多名同学的支持。2009－2012年暑期本课程连续开设，85、86、87、88级校友分别担纲主讲。听课学生人数持续增加，主要生源为北大本科生，另有北大硕士、博士研究生，校外学生。特别令人感动的是，资深职业规划师董晓玲女士连续三年注册本课程，认真参与课堂讨论和交流，并在课余悉心指导选课学生。2007级信息学院计算机系直博生张磊每年都来听课和讨论，他本人从课程受到启迪也为课堂带来了有价值的贡献。历届学生都对课程给予了高度评价，并且在课后跟每届讲师团校友建立了很好的联系，有的同学到校友的公司访问受到热情接待，还有同学成功入职校友领导的公司。2009年北大的职业规划大赛上，一名学经济的参赛选手提到本课程给予他有益的启发；2010年信息学院毕业生骨干座谈会上多名学生提到从本课程受益匪浅。
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2013年暑期课程主要由北大计算机系系友担纲，由张铭、赵海燕、蒋云共同主持。特邀北大其他学院校友及社会成功人士加盟讲师团队。校友们将协助学生了解生涯规划的一些基本概念与基本技巧，进而培养学生从事职业的兴趣、技巧、能力，塑造清新独特的自我，养成良好的职业道德。
+主要内容包括创新与创业，创业中的感悟与经验，职业道路的选择与规划，以及学术科研与产业发展的分析等。
+</p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “他山之石，可以攻玉”，相信同学们在本次暑期课程将得到良多的收获。<br />
+</p>
+
+<p>&nbsp;</p>
+<h3>四、2008年暑期课学生反馈</h3>
+				<blockquote>
+				  <p>“区别于北大所有的领导力课程，“职业规划与领导力发展”最吸引人的地方，莫过于全部演讲者都是我们的学长学姐。他们不但熟谙我们现在正在学习的专业，而且亲身经历过我们日后将面临的困难，享受着我们梦寐以求的成功。和书本上抽象而笼统的管理概念不同，他们的讲座亲切而生动、体会精辟而深刻、对问题的解答更是一针见血。每周三次的讲座让人受益匪浅，对我们这些后辈们在日后的学习、工作中都有很大帮助和启发。”</p>
+</blockquote>
+                <blockquote>
+				  <p>“听着8408的学长学姐们不辞辛苦地返校，和我们分享他们当年学习、出路、工作的心得体会，向我们介绍IT行业各方面的市场资源、发展前景，觉得自己学到了很多书本上难以学到的知识。”</p> </blockquote>
+              <blockquote><p>“前辈们的精彩的演讲让我对IT行业有了一个初步的认识，了解了计算机领域的职业生涯，更重要的是知道了职场上的种种注意事项、更进一步了解了创业、求职的优劣利弊。”</p></blockquote>
+              <blockquote><p>“感谢职业规划课程，感谢学长们的指点迷津，希望我以后能够不断改进自己的计划方式，逐步做完最重要的事。”</p></blockquote>
+               <blockquote><p>“这门课的感觉非常好，比较注重讲师跟我们的互动环节，课堂上比较活跃”</p></blockquote>
+               <blockquote><p>“许多意想不到的收获，这得益于课程的精心设计。”</p></blockquote>
+               <blockquote><p>“感谢张铭老师、赵海燕老师创新的开设这一门课程，给我们计算机系的学生带来了来自学长们弥足珍贵的经验和教诲。祝愿这门课越办越好！”</p></blockquote>
+               <blockquote>
+                 <p><a href="reference.html#opinions">更多学生心得,</a>摘要部分如下:<br>
+                 05级信息科学技术学院电子学系本科生 <a href="attachments/00548325.pdf" target="_blank">王云芝</a><br>
+                 06级经济学院本科生 <a href="attachments/00625604.pdf" target="_blank">吴美贤</a><br/>
+                 06级信息科学技术学院微电子系本科生 <a href="attachments/00648079.pdf" target="_blank">丁健平</a>
+                 </p>
+             </blockquote>
+
+		  </div>
+		</div>
+	  <div id="secondaryContent">
+        <h3>重要通知</h3>
+        本课程从明天（2014年）春季学期开始，将不在暑期举办。本期课程是最后一次接受校外学生正式注册的机会。课程从明年开始的新安排将另行通知。 谢谢大家的关注！
+
+        <br><br>
+
+		<h3>USEful links</h3>
+        <a href="http://pkudlib.org" target="_blank"><strong>Dlib组主页</strong></a>
+        <br><a href="http://www.sojump.com/jq/1386994.aspx" target="_blank"><strong>课堂提问登记</strong></a>
+        <br><a href="http://www.sojump.com/jq/1386945.aspx" target="_blank"><strong>个人信息登记</strong></a>
+
+        <!--
+		<a href="https://spreadsheets.google.com/viewform?formkey=dGNMeF8teDZSTzUyS19TVjlrTzRIY1E6MQ" target="_blank"><strong>讨论组报名表</strong> </a><br>
+        <a href="investigation.html">课程调查问卷</a>-->
+        <br>
+	<h3>discussion group</h3>
+			<p>Any problem, discuss here. <br><a href="https://groups.google.com/forum/?fromgroups&hl=en#!forum/pkucareer2013" target="_blank">Our Discuss Forum</a></p>
+			<h3>course time</h3>
+			<p>2013年7月8日-8月2日，每周一、三、五上午9：00 – 11：30</p>
+			<h3>classroom</h3>
+            <p>待定<br /></p>
+      <h3>introduction</h3>
+		<ul>
+		    <!--<li><a href="career_intro2012.pdf" target="_blank">课程介绍</a></li>-->
+		</ul>
+	  </div>
+		<div class="clear"></div>
+	</div>
+	<div id="footer">
+		<p>Copyright@2013 Peking University Dlib<br>
+		  COURSE 13 - Career Planning  &amp; Leadership Development</p>
+	</div>
+</div>
+</body>
+</html>

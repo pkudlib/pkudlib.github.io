@@ -1,0 +1,167 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+	Design by Free CSS Templates
+	http://www.freecsstemplates.org
+	Released for free under a Creative Commons Attribution 2.5 License
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>职业规划与领导力发展</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="default.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+#outer #content #secondaryContent p strong {
+	color: #C30;
+}
+-->
+</style>
+</head>
+<body>
+<div id="outer">
+	<div id="header">
+		<h1><a href="index.html">职业规划与领导力发展</a></h1>
+		<h2>2013 Peking University</h2>
+  </div>
+  <div id="menu">
+    <ul>
+      <li class="first"><a href="index.html" accesskey="1" title="">Home</a></li>
+      <li><a href="schedule.html" accesskey="2" title="">2013 Introduction</a></li>
+      <li><a href="reference.html" accesskey="3" title="">Reference</a></li>
+      <li><a href="resource.html" accesskey="4" title="">Resource</a></li>
+      <li><a href="archive.html" accesskey="5" target="_blank">2008~2012 Review</a></li>
+<!--      <li><a href="career09/index.htm" accesskey="6" target="_blank">2009 Review</a></li>  -->
+      <li><a href="contact.html" accesskey="7" title="">Contact Us</a></li>
+    </ul>
+  </div>
+	<div id="content">
+		<div id="xbg1"></div>
+		<div id="primaryContentContainer">
+			<div id="primaryContent">
+				<h2>career planning <br>&amp; Leadership development</h2>
+<h3>PLAN</h3>
+<table>
+  <tr>
+    <th align='center'>时间</th>
+    <th align='center'>嘉宾</th>
+    <th align='center'>主题</th>
+  </tr>
+  <tr class="rowA">
+    <td>7.8</td>
+    <td><strong>马骏</strong>（北大计算机系86级校友，国务院发展研究中心企业研究所研究员）</td>
+    <td align="center"><p>信息产业的创新</p>
+	<!--<p><a href="">讲座ppt</a></p><p><a href="">录音</a></p>-->
+	</td>
+  </tr>
+  <tr class="rowB">
+    <td>7.10</td>
+    <td><strong><a href="http://weibo.com/u/1946548263" target="_blank">阳萌</a></strong>（北大计算机系99级校友，<a href="http://www.oceanwing.com/" target="_blank">海翼电子商务有限公司</a>创始人、CEO）<br>
+    <strong><a href="http://weibo.com/arthurgao" target="_blank">高韬</a></strong>（北大计算机系96级校友，<a href="http://www.oceanwing.com/" target="_blank">海翼电子商务有限公司</a>副总裁）
+	</td>
+    <td><p>“软硬结合 + 电子商务”的创业旅途</p>
+	<!--<p><a href="liulei.pdf">讲座ppt</a></p><p><a href="liulei.MP3">录音</a></p>-->
+	</td>
+  </tr>
+  <tr class="rowA">
+    <td height="59">7.12</td>
+    <td><strong><a href="http://weibo.com/wangyuquan" arget="_blank">王煜全</a></strong>（1994年毕业于北师大，2012年成立<a href="http://www.haiyinfund.com/" target="_blank">海银资本</a>，现专注于社会化应用、无线互联与手机游戏等新兴产业的研究和投资催化）</td>
+    <td><p>新兴产业创业</p>
+	</td>
+  </tr>
+  <tr class="rowB">
+    <td>7.15</td>
+    <td><strong><a href="http://weibo.com/rainswallow" target="_blank">赵岗</a></strong>（北大计算机系96级校友，<a href="http://www.anguanjia.com/" target="_blank">安管佳</a>创始人、CEO） </td>
+    <td align="center"><p>专注创业：做好一件事</p></td>
+  </tr>
+  <tr class="rowA">
+    <td>7.17</td>
+    <td><p> <strong><a href="http://weibo.com/nijinlei" target="_blank">倪金磊</a></strong>（北大计算机系83级本、87级硕，<a href="http://www.upup100.com/" target="_blank">阿帕图英语</a>创始人） </p></td>
+    <td align="center"><p> 对在线教育的理解与创业中的领悟 </p><!--<p><a href="xuweilin.MP3">录音</a></p>--></td>
+  </tr>
+  <tr class="rowB">
+    <td>7.19</td>
+    <td><strong><a href="http://weibo.com/ccyuanyuan" target="_blank">张远</a></strong>(北大计算机系98级校友，<a href="http://www.bokecc.com/" target="_blank">北京梦之窗数码科技有有限公司</a>创始人、CEO）</td>
+    <td align="center"><p>学生创业的经历和体验</p>
+	<!--<p><a href="wanggaofei.pptx">讲座ppt</a></p><p><a href="wanggaofei.MP3">录音</a></p>-->
+	</td>
+ </tr>
+   <tr class="rowB">
+    <td>7.22</td>
+    <td><strong><a href="http://weibo.com/lirenchen" target="_blank">陈利人</a></strong>（清华大学计算机系88级本科和硕士，CMU硕士，盘古搜索CTO）</td>
+    <td align="center"><p>中美创业之差异</p>
+	<!--<p><a href="wanggaofei.pptx">讲座ppt</a></p><p><a href="wanggaofei.MP3">录音</a></p>-->
+	</td>
+ </tr>
+    <tr class="rowB">
+    <td>7.24 </td>
+    <td><strong><a href="http://weibo.com/u/2033880657" target="_blank">李丰</a></strong>（北大化院84级校友。<a href="http://www.idgvc.com/" target="_blank">IDG资本</a>合伙人，侧重于教育消费领域及TMT相关领域的投资）</td>
+    <td align="center"><p>大学生就业选择以及中国互联网的新兴趋势和行业机会</p>
+	<!--<p><a href="wanggaofei.pptx">讲座ppt</a></p><p><a href="wanggaofei.MP3">录音</a></p>-->
+	</td>
+ </tr>
+<tr class="rowA">
+    <td>7.26</td>
+    <td><strong>黄立</strong>（北大计算机系84级校友，2008年加入全方位IT服务及行业解决方案提供商---<a href="http://www.isoftstone.com/cn/default.aspx" target="_blank">软通动力</a>，任高级副总裁及中国区负责人）
+    </td>
+    <td align="center">职业发展的关键因素</td>
+  </tr>
+  <tr class="rowA">
+    <td>7.29</td>
+    <td><strong><a href="http://weibo.com/qz6621" target="_blank">张勤</a></strong>（北大计算机系92级校友，<a href="http://china.alibaba.com/" href="">阿里巴巴集团</a>副总裁，<a href="http://www.etao.com/" target="_blank">一淘</a>和搜索事业部总经理）</td>
+    <td align="center"> <p>电子商务改变生活</p>
+	<!--<p><a href="huweidong.pptx">讲座ppt</a></p><p><a href="huweidong.MP3">录音</a></p>-->
+	</td>
+  </tr>
+  <tr class="rowB">
+    <td>7.31</td>
+    <td><strong>79级Panel</strong>（陈钟，陈向群，梁平等北大79级校友）</td>
+    <td align="center">学术界 vs. 产业界，你准备好了吗？</td>
+  </tr>
+  <tr class="rowA">
+    <td>8.2</td>
+    <td><strong><a href="http://weibo.com/u/2419876533" target="_blank">石文昌</a></strong>（北大计算机系软件学士、中科院软件与理论博士，中国人民大学信息学院教授）</td>
+    <td align="center"><p>大学课堂与职业生涯</p>
+	<!--<p><a href="wangmengqiu.pptx">讲座ppt</a></p><p><a href="wangmengqiu.MP3">录音</a></p>-->
+	</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+
+
+
+		  </div>
+		</div>
+	  <div id="secondaryContent">
+		<h3>USEful links</h3>
+        <a href="http://pkudlib.org" target="_blank"><strong>Dlib组主页</strong></a>	<br><a href="http://www.sojump.com/jq/1386994.aspx" target="_blank"><strong>课堂提问登记</strong></a><br />
+        <a href="http://www.sojump.com/jq/1386945.aspx" target="_blank"><strong>个人信息登记</strong></a>
+        <!--
+		<a href="https://spreadsheets.google.com/viewform?formkey=dGNMeF8teDZSTzUyS19TVjlrTzRIY1E6MQ" target="_blank"><strong>讨论组报名表</strong> </a><br>
+        <a href="investigation.html">课程调查问卷</a>-->
+        <br>
+</p>
+	<h3>discussion group</h3>
+			<p>Any problem, discuss here. <br><a href="https://groups.google.com/forum/?fromgroups&hl=en#!forum/pkucareer2013" target="_blank">Our Discuss Forum</a></p>
+			<h3>course time</h3>
+			<p>2013年7月8日-8月2日，每周一、三、五上午9：00 – 11：30</p>
+			<h3>classroom</h3>
+            <p>待定<br /></p>
+      <h3>introduction</h3>
+		<ul>
+		    <!--<li><a href="career_intro2012.pdf" target="_blank">课程介绍</a></li>-->
+		</ul>
+	  </div>
+
+		<div class="clear"></div>
+	</div>
+	<div id="footer">
+		<p>Copyright@2013 Peking University Dlib<br>
+		  COURSE 13 - Career Planning  &amp; Leadership Development</p>
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,525 @@
+* {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none; BORDER-RIGHT-WIDTH: 0px
+}
+BODY {
+	FONT-SIZE: 12px; BACKGROUND: #fff; COLOR: #7a7a7a; LINE-HEIGHT: 20px; FONT-FAMILY: Helvetica, "Helvetica Neue", Arial, sans-serif; TEXT-ALIGN: left
+}
+DIV#container {
+	BACKGROUND: url(images/header.gif) no-repeat left top; MARGIN: 0px auto; WIDTH: 1000px
+}
+DIV#header {
+	WIDTH: 1000px; POSITION: relative; HEIGHT: 136px
+}
+DIV#btn1_active {
+	WIDTH: 139px; POSITION: absolute; TOP: 0px; HEIGHT: 136px
+}
+DIV#btn1_inactive {
+	WIDTH: 139px; POSITION: absolute; TOP: 0px; HEIGHT: 136px
+}
+DIV#btn2_active {
+	WIDTH: 139px; POSITION: absolute; TOP: 0px; HEIGHT: 136px
+}
+DIV#btn2_inactive {
+	WIDTH: 139px; POSITION: absolute; TOP: 0px; HEIGHT: 136px
+}
+DIV#btn3_active {
+	WIDTH: 139px; POSITION: absolute; TOP: 0px; HEIGHT: 136px
+}
+DIV#btn3_inactive {
+	WIDTH: 139px; POSITION: absolute; TOP: 0px; HEIGHT: 136px
+}
+DIV#btn4_active {
+	WIDTH: 139px; POSITION: absolute; TOP: 0px; HEIGHT: 136px
+}
+DIV#btn4_inactive {
+	WIDTH: 139px; POSITION: absolute; TOP: 0px; HEIGHT: 136px
+}
+DIV#btn1_active {
+	RIGHT: 434px; BACKGROUND: url(images/btn1_active.gif) no-repeat left top
+}
+DIV#btn1_inactive {
+	RIGHT: 434px; BACKGROUND: none transparent scroll repeat 0% 0%
+}
+A#btn1 {
+	DISPLAY: block; TEXT-INDENT: -9999px
+}
+A#btn2 {
+	DISPLAY: block; TEXT-INDENT: -9999px
+}
+A#btn3 {
+	DISPLAY: block; TEXT-INDENT: -9999px
+}
+A#btn4 {
+	DISPLAY: block; TEXT-INDENT: -9999px
+}
+A#btn1 {
+	BACKGROUND: url(images/btn1.gif) no-repeat left top; MARGIN: 0px; WIDTH: 139px; HEIGHT: 136px
+}
+A#btn1:hover {
+	BACKGROUND-POSITION: left bottom
+}
+DIV#btn2_active {
+	RIGHT: 296px; BACKGROUND: url(images/btn2_active.gif) no-repeat left top
+}
+DIV#btn2_inactive {
+	RIGHT: 295px; BACKGROUND: none transparent scroll repeat 0% 0%
+}
+A#btn2 {
+	BACKGROUND: url(images/btn2.gif) no-repeat left top; MARGIN: 0px; WIDTH: 139px; HEIGHT: 136px
+}
+A#btn2:hover {
+	BACKGROUND-POSITION: left bottom
+}
+DIV#btn3_active {
+	RIGHT: 157px; BACKGROUND: url(images/btn3_active.gif) no-repeat left top
+}
+DIV#btn3_inactive {
+	RIGHT: 157px; BACKGROUND: none transparent scroll repeat 0% 0%
+}
+A#btn3 {
+	BACKGROUND: url(images/btn3.gif) no-repeat left top; MARGIN: 0px; WIDTH: 139px; HEIGHT: 136px
+}
+A#btn3:hover {
+	BACKGROUND-POSITION: left bottom
+}
+DIV#btn4_active {
+	RIGHT: 19px; BACKGROUND: url(images/btn4_active.gif) no-repeat left top
+}
+DIV#btn4_inactive {
+	RIGHT: 18px; BACKGROUND: none transparent scroll repeat 0% 0%
+}
+A#btn4 {
+	BACKGROUND: url(images/btn4.gif) no-repeat left top; MARGIN: 0px; WIDTH: 139px; HEIGHT: 136px
+}
+A#btn4:hover {
+	BACKGROUND-POSITION: left bottom
+}
+#sidebar {
+	PADDING-LEFT: 0px; FLOAT: left; MARGIN-BOTTOM: 0px; MARGIN-LEFT: 0px; PADDING-TOP: 0px
+}
+#sidebar LI A {
+	DISPLAY: inline-block; COLOR: #7a7a7a; TEXT-DECORATION: none
+}
+#sidebar LI A:hover {
+	PADDING-RIGHT: 3px; DISPLAY: inline-block; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; COLOR: #fff; PADDING-TOP: 0px; BACKGROUND-COLOR: #f42602; TEXT-DECORATION: none
+}
+#sidebar P {
+	PADDING-LEFT: 20px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 30px; LINE-HEIGHT: 1.62em
+}
+#sidebar LI {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 8px; LINE-HEIGHT: 16px
+}
+#sidebar LI A.active {
+	PADDING-RIGHT: 3px; DISPLAY: inline-block; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; COLOR: #fff; PADDING-TOP: 0px; BACKGROUND-COLOR: #f42602; TEXT-DECORATION: none
+}
+A#homebutton {
+	BORDER-TOP-WIDTH: 0px; DISPLAY: block; BORDER-LEFT-WIDTH: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 48px 0px 0px 30px; WIDTH: 110px; HEIGHT: 56px; BORDER-RIGHT-WIDTH: 0px
+}
+DIV#next_btn_active {
+	WIDTH: 84px; POSITION: absolute; TOP: 0px; HEIGHT: 10px
+}
+DIV#next_btn_inactive {
+	WIDTH: 84px; POSITION: absolute; TOP: 0px; HEIGHT: 10px
+}
+A#next_btn {
+	DISPLAY: block; TEXT-INDENT: -9999px
+}
+A#btn2 {
+	DISPLAY: block; TEXT-INDENT: -9999px
+}
+A#btn3 {
+	DISPLAY: block; TEXT-INDENT: -9999px
+}
+A#btn4 {
+	DISPLAY: block; TEXT-INDENT: -9999px
+}
+A#next_btn {
+	BACKGROUND: url(images/next_btn.gif) no-repeat left top; MARGIN: 334px 0px 0px; WIDTH: 84px; HEIGHT: 10px
+}
+A#next_btn:hover {
+	BACKGROUND-POSITION: left bottom
+}
+DIV#prev_btn_active {
+	WIDTH: 112px; POSITION: absolute; TOP: 0px; HEIGHT: 10px
+}
+DIV#prev_btn_inactive {
+	WIDTH: 112px; POSITION: absolute; TOP: 0px; HEIGHT: 10px
+}
+A#prev_btn {
+	DISPLAY: block; TEXT-INDENT: -9999px
+}
+A#btn2 {
+	DISPLAY: block; TEXT-INDENT: -9999px
+}
+A#btn3 {
+	DISPLAY: block; TEXT-INDENT: -9999px
+}
+A#btn4 {
+	DISPLAY: block; TEXT-INDENT: -9999px
+}
+A#prev_btn {
+	BACKGROUND: url(images/prev_btn.gif) no-repeat left top; MARGIN: 334px 0px 0px; WIDTH: 112px; HEIGHT: 10px
+}
+A#prev_btn:hover {
+	BACKGROUND-POSITION: left bottom
+}
+DIV#content {
+	BORDER-RIGHT: white 0px solid; BORDER-TOP: white 0px solid; MIN-HEIGHT: 450px; MARGIN: 0px 0px 0px 45px; BORDER-LEFT: white 0px solid; WIDTH: 955px; BORDER-BOTTOM: white 0px solid
+}
+* HTML DIV#content {
+	HEIGHT: 450px
+}
+DIV#home_column1wide {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; BACKGROUND: url(images/biglogo.gif) #fff no-repeat right top; FLOAT: left; MARGIN: 60px 0px 0px; BORDER-LEFT: #666 0px solid; WIDTH: 850px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 120px
+}
+DIV#home_column2wide {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; BACKGROUND: #fff; FLOAT: left; MARGIN: 0px 0px 0px 15px; BORDER-LEFT: #666 0px solid; WIDTH: 90px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 251px
+}
+DIV#home_column1 {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; BACKGROUND: #fff; FLOAT: left; MARGIN: 0px; BORDER-LEFT: #666 0px solid; WIDTH: 288px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 350px; TEXT-ALIGN: justify
+}
+DIV#home_column1 P {
+	MARGIN-LEFT: 2px; WIDTH: 261px
+}
+DIV#home_column2 P {
+	MARGIN-LEFT: 2px; WIDTH: 261px
+}
+DIV#home_column3 P {
+	MARGIN-LEFT: 2px; WIDTH: 261px
+}
+DIV#home_column1 A {
+	COLOR: #000
+}
+DIV#home_column2 A {
+	COLOR: #000
+}
+DIV#home_column3 A {
+	COLOR: #000
+}
+DIV#home_column2 {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; FLOAT: left; MARGIN: 0px 0px 0px 50px; BORDER-LEFT: #666 0px solid; WIDTH: 288px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 350px; TEXT-ALIGN: justify
+}
+DIV#home_column3 {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; FLOAT: left; MARGIN: 0px 0px 0px 50px; BORDER-LEFT: #666 0px solid; WIDTH: 272px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 350px; TEXT-ALIGN: justify
+}
+DIV.screenshot_home {
+	MARGIN: 0px 0px 12px; WIDTH: 268px; HEIGHT: 150px
+}
+* HTML DIV.screenshot_home {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+DIV#home_column1:hover {
+	BACKGROUND: url(images/4pxgrey.gif) #fff repeat-x right bottom
+}
+DIV#home_column2:hover {
+	BACKGROUND: url(images/4pxgrey.gif) #fff repeat-x right bottom
+}
+DIV#home_column3:hover {
+	BACKGROUND: url(images/4pxgrey.gif) #fff repeat-x right bottom
+}
+DIV#works_column1 IMG {
+	MARGIN: 18px 0px 0px
+}
+DIV#works_column2 IMG {
+	MARGIN: 18px 0px 0px
+}
+DIV#works_column3 IMG {
+	MARGIN: 4px 0px 0px 4px
+}
+DIV.screenshot {
+	BACKGROUND: #efefef; MARGIN: 0px 0px 12px; WIDTH: 500px; HEIGHT: 400px
+}
+DIV.screenshot_cont {
+	MARGIN: 0px 0px 12px; WIDTH: 508px; HEIGHT: 268px
+}
+* HTML DIV.screenshot {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+DIV#works_column1wide {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; BACKGROUND: url(images/logo.jpg) #fff no-repeat right top; FLOAT: left; MARGIN: 60px 0px 0px; BORDER-LEFT: #666 0px solid; WIDTH: 377px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 120px
+}
+DIV#works_column2wide {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; BACKGROUND: url(images/wide_right.jpg) no-repeat right top; FLOAT: left; MARGIN: 0px 0px 0px 15px; BORDER-LEFT: #666 0px solid; WIDTH: 510px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 251px
+}
+* {
+	
+}
+DIV#works_column1 {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; FLOAT: left; MARGIN: 0px; BORDER-LEFT: #666 0px solid; WIDTH: 235px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 400px
+}
+DIV#works_column1 P {
+	MARGIN-LEFT: 2px; WIDTH: 261px
+}
+DIV#works_column2 P {
+	MARGIN-LEFT: 2px; WIDTH: 261px
+}
+DIV#works_column3 P {
+	MARGIN-LEFT: 10px; WIDTH: 495px
+}
+DIV#works_column1 A {
+	COLOR: #666
+}
+DIV#works_column2 A {
+	COLOR: #666
+}
+DIV#works_column3 A {
+	COLOR: #fff
+}
+DIV#works_column3 A:hover {
+	BACKGROUND: url(images/black_arrow.gif) no-repeat right 50%; COLOR: #000
+}
+DIV#works_column2 {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; BACKGROUND: url(images/1pxgrey.gif) #efefef repeat-y right top; FLOAT: left; MARGIN: 0px; BORDER-LEFT: #666 0px solid; WIDTH: 190px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 400px
+}
+DIV#works_column3 {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; FLOAT: left; MARGIN: 0px 0px 0px 1px; BORDER-LEFT: #666 0px solid; WIDTH: 500px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 400px
+}
+H2.work {
+	BACKGROUND: url(images/logo.jpg) no-repeat left top; WIDTH: 415px; HEIGHT: 126px
+}
+#black_text {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN: 10px; COLOR: #000; LINE-HEIGHT: 16px; TEXT-ALIGN: justify
+}
+#thebox {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 28px; HEIGHT: 46px
+}
+#thebox_contact {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 24px; HEIGHT: 46px
+}
+#square {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 20px; BACKGROUND: #000; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 46px; COLOR: #fff; PADDING-TOP: 0px; POSITION: relative; HEIGHT: 46px; TEXT-ALIGN: right
+}
+#rectangle_grey {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 12px; Z-INDEX: 1; BACKGROUND: #efefef; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 140px; COLOR: #000; PADDING-TOP: 0px; POSITION: relative; HEIGHT: 46px; TEXT-ALIGN: left
+}
+#rectangle_red {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 12px; Z-INDEX: 1; BACKGROUND: #f42602; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 140px; COLOR: #fff; PADDING-TOP: 0px; POSITION: relative; HEIGHT: 23px; TEXT-ALIGN: left
+}
+#box_link {
+	DISPLAY: block; WIDTH: 140px; POSITION: relative; HEIGHT: 23px
+}
+#box_link LI {
+	DISPLAY: block; FLOAT: left; MARGIN-BOTTOM: 5px; MARGIN-LEFT: 5px; POSITION: relative; HEIGHT: 20px
+}
+#box_link LI A {
+	PADDING-RIGHT: 15px; DISPLAY: block; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 13px; PADDING-BOTTOM: 3px; PADDING-TOP: 2px; POSITION: relative
+}
+A {
+	COLOR: #ccc; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ccc; TEXT-DECORATION: none
+}
+#page_link {
+	PADDING-LEFT: 0px; MARGIN-BOTTOM: 0px; MARGIN-LEFT: 0px; PADDING-TOP: 0px
+}
+#page_link LI A {
+	DISPLAY: inline-block; COLOR: #7a7a7a; TEXT-DECORATION: none
+}
+#page_link LI A:hover {
+	PADDING-RIGHT: 3px; DISPLAY: inline-block; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; COLOR: #fff; PADDING-TOP: 0px; BACKGROUND-COLOR: #f42602; TEXT-DECORATION: none
+}
+#page_link P {
+	PADDING-LEFT: 20px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 30px; COLOR: #666; LINE-HEIGHT: 1.62em
+}
+#page_link LI {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 8px; LINE-HEIGHT: 16px
+}
+#page_link LI A.active {
+	PADDING-RIGHT: 3px; DISPLAY: inline-block; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; COLOR: #fff; PADDING-TOP: 0px; BACKGROUND-COLOR: #f42602; TEXT-DECORATION: none
+}
+.linkclass {
+	FONT-WEIGHT: bold; COLOR: #666
+}
+DIV#about_column1wide {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; BACKGROUND: url(images/about.gif) #fff no-repeat right top; FLOAT: left; MARGIN: 69px 0px 0px; BORDER-LEFT: #666 0px solid; WIDTH: 464px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 106px
+}
+DIV#about_column2wide {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; BACKGROUND: url(images/wide_right_about.gif) no-repeat right top; FLOAT: left; MARGIN: 0px 0px 0px 15px; BORDER-LEFT: #666 0px solid; WIDTH: 400px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 251px
+}
+DIV#about_column1 IMG {
+	MARGIN: 0px
+}
+DIV#about_column2 IMG {
+	MARGIN: 0px
+}
+DIV#about_column3 IMG {
+	MARGIN: 4px 0px 0px 4px
+}
+* {
+	
+}
+DIV#about_column1 {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; BACKGROUND: url(images/my_pic.jpg) no-repeat left top; FLOAT: left; MARGIN: 0px; BORDER-LEFT: #666 0px solid; WIDTH: 350px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 350px
+}
+DIV#about_column1 P {
+	MARGIN-LEFT: 2px; WIDTH: 261px
+}
+DIV#about_column2 P {
+	MARGIN-LEFT: 2px; WIDTH: 261px
+}
+DIV#about_column3 P {
+	MARGIN-LEFT: 40px; WIDTH: 525px
+}
+DIV#about_column1 A {
+	COLOR: #666
+}
+DIV#about_column2 A {
+	COLOR: #666
+}
+DIV#about_column3 A {
+	COLOR: #fff
+}
+DIV#about_column3 A:hover {
+	BACKGROUND: url(images/black_arrow.gif) no-repeat right 50%; COLOR: #000
+}
+DIV#about_column2 {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; BACKGROUND: url(images/1pxgrey.gif) repeat-y right top; FLOAT: left; MARGIN: 0px; BORDER-LEFT: #666 0px solid; WIDTH: 75px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 350px
+}
+DIV#about_column3 {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; FLOAT: left; MARGIN: 0px 0px 0px 1px; BORDER-LEFT: #666 0px solid; WIDTH: 402px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 350px
+}
+#thebox_about {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 284px; HEIGHT: 46px
+}
+#my_name {
+	DISPLAY: block; BACKGROUND: #f42602; LEFT: 0px; COLOR: #fff; TOP: 0px
+}
+.about_content {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; WIDTH: 502px; PADDING-TOP: 5px; POSITION: absolute; BACKGROUND-COLOR: #efefef; TEXT-ALIGN: justify
+}
+.work_content {
+	WIDTH: 202px; POSITION: absolute; BACKGROUND-COLOR: #fff; TEXT-ALIGN: justify
+}
+DIV#contact_column1wide {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; BACKGROUND: url(images/contact.gif) #fff no-repeat right top; FLOAT: left; MARGIN: 69px 0px 0px; BORDER-LEFT: #666 0px solid; WIDTH: 464px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 106px
+}
+DIV#contact_column2wide {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; BACKGROUND: url(images/wide_right_contact.gif) no-repeat right top; FLOAT: left; MARGIN: 0px 0px 0px 15px; BORDER-LEFT: #666 0px solid; WIDTH: 400px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 251px
+}
+DIV#contactpic {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; BACKGROUND: url(images/enveloper.jpg) #fff no-repeat right 50%; FLOAT: left; MARGIN: 0px; BORDER-LEFT: #666 0px solid; WIDTH: 235px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 350px
+}
+#thebox_about {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 284px; HEIGHT: 46px
+}
+#my_name {
+	DISPLAY: block; BACKGROUND: #f42602; LEFT: 0px; COLOR: #fff; TOP: 0px
+}
+.contact_content {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; WIDTH: 502px; PADDING-TOP: 5px; POSITION: absolute; BACKGROUND-COLOR: #efefef; TEXT-ALIGN: justify
+}
+DIV#footer {
+	CLEAR: both; BACKGROUND: url(images/1pxgrey.gif) repeat-x left top; FLOAT: left; MARGIN: 0px 0px 0px 45px; WIDTH: 938px; HEIGHT: 51px
+}
+DIV#footer IMG {
+	DISPLAY: block; MARGIN: 0px 0px 9px
+}
+* HTML DIV#footer {
+	MARGIN: 0px 0px 0px 22px
+}
+DIV#footer DIV {
+	FLOAT: left
+}
+DIV.footer_content {
+	MARGIN: 4px 0px 0px
+}
+* HTML DIV.footer_content {
+	MARGIN: 4px 0px 0px
+}
+#footer_link {
+	PADDING-LEFT: 0px; FLOAT: left; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 10px; MARGIN-LEFT: 0px; PADDING-TOP: 0px
+}
+#footer_link LI A {
+	DISPLAY: inline-block; COLOR: #7a7a7a; TEXT-DECORATION: none
+}
+#footer_link LI A:hover {
+	PADDING-RIGHT: 0px; DISPLAY: inline-block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; COLOR: #fff; PADDING-TOP: 0px; BACKGROUND-COLOR: #f42602; TEXT-DECORATION: none
+}
+#footer_link LI {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 8px; LINE-HEIGHT: 16px
+}
+#lang_box {
+	DISPLAY: block; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; Z-INDEX: 4; BACKGROUND: url(images/lang_box.gif) no-repeat left top; LEFT: 922px; WIDTH: 25px; COLOR: #fff; LINE-HEIGHT: 22px; PADDING-TOP: 1px; POSITION: absolute; TOP: 0px; HEIGHT: 22px; TEXT-ALIGN: left
+}
+#lang_box A {
+	DISPLAY: block; COLOR: #fff; POSITION: relative
+}
+#lang_box A:hover {
+	COLOR: #000; PADDING-TOP: 1px
+}
+#lang_box2 {
+	DISPLAY: block; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; Z-INDEX: 4; BACKGROUND: url(images/lang_box.gif) no-repeat left top; LEFT: 952px; WIDTH: 25px; COLOR: #fff; LINE-HEIGHT: 22px; PADDING-TOP: 1px; POSITION: absolute; TOP: 0px; HEIGHT: 22px; TEXT-ALIGN: left
+}
+#lang_box2 A {
+	DISPLAY: block; COLOR: #fff; POSITION: relative
+}
+#lang_box2 A:hover {
+	COLOR: #000; PADDING-TOP: 1px
+}
+DIV#error_column1wide {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; BACKGROUND: url(images/404.gif) #fff no-repeat right top; FLOAT: left; MARGIN: 60px 0px 0px; BORDER-LEFT: #666 0px solid; WIDTH: 850px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 120px
+}
+DIV#error_column2wide {
+	BORDER-RIGHT: #666 0px solid; BORDER-TOP: #666 0px solid; BACKGROUND: #fff; FLOAT: left; MARGIN: 0px 0px 0px 15px; BORDER-LEFT: #666 0px solid; WIDTH: 90px; BORDER-BOTTOM: #666 0px solid; HEIGHT: 251px
+}
+#context_link {
+	DISPLAY: block; POSITION: relative
+}
+#context_link LI {
+	DISPLAY: block; FLOAT: left; MARGIN-BOTTOM: 5px; POSITION: relative; HEIGHT: 10px
+}
+#context_link LI A {
+	PADDING-RIGHT: 14px; DISPLAY: block; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 13px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; POSITION: relative
+}
+BUTTON {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; CURSOR: pointer; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.spacer {
+	CLEAR: both; HEIGHT: 1px
+}
+#myForm {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#myForm BUTTON {
+	CLEAR: both; PADDING-RIGHT: 6px; PADDING-LEFT: 6px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: #f42602; PADDING-BOTTOM: 4px; MARGIN-LEFT: 0px; COLOR: #fff; PADDING-TOP: 4px
+}
+#myForm BUTTON:hover {
+	CLEAR: both; PADDING-RIGHT: 6px; PADDING-LEFT: 6px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: url(images/black_arrow.gif) #f42602 no-repeat right 50%; PADDING-BOTTOM: 4px; MARGIN-LEFT: 0px; COLOR: #000; PADDING-TOP: 4px
+}
+P#success {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 14px; Z-INDEX: 8; MARGIN-BOTTOM: 2px; PADDING-BOTTOM: 1px; COLOR: #000; PADDING-TOP: 1px; TEXT-ALIGN: left
+}
+P#bademail {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 14px; Z-INDEX: 8; MARGIN-BOTTOM: 2px; PADDING-BOTTOM: 1px; COLOR: #f42602; PADDING-TOP: 1px; TEXT-ALIGN: left
+}
+P#badserver {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 14px; Z-INDEX: 8; MARGIN-BOTTOM: 2px; PADDING-BOTTOM: 1px; COLOR: #f42602; PADDING-TOP: 1px; TEXT-ALIGN: left
+}
+.wrap {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FLOAT: left; PADDING-BOTTOM: 2px; OVERFLOW: hidden; WIDTH: 600px; CURSOR: pointer; PADDING-TOP: 2px; POSITION: relative; HEIGHT: 400px
+}
+.wrap IMG {
+	LEFT: 0px; WIDTH: 600px; CURSOR: pointer; POSITION: absolute; TOP: 0px; 
+}
+.wrap_home {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; FLOAT: left; PADDING-BOTTOM: 0px; OVERFLOW: hidden; WIDTH: 261px; CURSOR: pointer; PADDING-TOP: 0px; POSITION: relative; HEIGHT: 125px
+}
+#works_slidepic_home LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../images/back_side_home.gif) #fff no-repeat 0px 0px; LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 261px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none; POSITION: relative; TOP: 0px; HEIGHT: 125px
+}
+#works_slidepic_home LI IMG {
+	LEFT: 0px; WIDTH: 261px; POSITION: absolute; TOP: 0px; HEIGHT: 125px
+}
+#works_slidepic_home LI A {
+	PADDING-RIGHT: 16px; DISPLAY: block; PADDING-LEFT: 16px; PADDING-BOTTOM: 16px; OVERFLOW: hidden; WIDTH: 261px; PADDING-TOP: 16px; POSITION: relative; HEIGHT: 125px
+}
+#works_slidepic_home LI.last {
+	MARGIN-RIGHT: 0px
+}
+#works_slidepic_home LI A:focus {
+	TEXT-DECORATION: none
+}
+#works_slidepic_home LI A:hover {
+	TEXT-DECORATION: none
+}
