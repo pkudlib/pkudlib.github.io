@@ -157,9 +157,12 @@
             <!-- <img src='img_files/18年12月28日，Dlib 毕业生唐建、杨一帆回访交流.jpeg', width=100%, align="center", style="padding-top:10px"> -->
 
             <p>
-              <br />
-              张铭教授； 博士生：郑康杰、袁野、顾怿洋、罗钧宇、杨君维、黄进晟、覃义方、刘成武、陈滨琪； 硕士生：Srbuhi Mirzoyan、袁境阳、赵禹昇、毛正阳、时冉、吴伯涵；
-              本科生：李兆彬、李思齐、谢家璇、丁宏骏、邹鲁童、于佳琨、程靖博、李乔舒、马名扬、施琪、梁斯悦；实习生：孙工博、郭泰安、李厚润、李若畅。
+              <br />张铭教授； 
+              <br />博士生：郑康杰、袁野、顾怿洋、罗钧宇、杨君维、黄进晟、覃义方、刘成武、陈滨琪； 
+              <br />硕转博：袁境阳、赵禹昇；
+              <br />硕士生：Srbuhi Mirzoyan、毛正阳、时冉、吴伯涵； 
+              <br />本科生：李兆彬、李思齐、谢家璇、丁宏骏、邹鲁童、于佳琨、程靖博、李乔舒、马名扬、施琪、梁斯悦；
+              <br />实习生：孙工博、郭泰安、李厚润、李若畅。
             </p>
           </div>
         </div>
@@ -198,10 +201,24 @@
           <br /><br />
           <ul class='list-group'>
             <li>
+              本组在DeepSeek实习的硕转博研究生袁境阳领衔发表NSA原生稀疏注意力模型预印本论文，博士生罗钧宇（四作）和导师张铭教授（共同通讯作者），联合DeepSeek梁文峰等同事以及华盛顿大学博士后肖之屏。
+              论文Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention提出了NSA原生稀疏注意力模型，原生支持训练，算法创新与硬件优化结合，能进行高效的长文本处理。
+              论文将注意力分为压缩、选择和滑动窗口三个分支，这种智能的动态分层稀疏策略既保留全局理解又减少冗余计算。论文精心设计的算法平衡了计算密度，并针对现代硬件做了专门优化，在 64k 长度文本处理中实现最高 9 倍训练加速和11 倍解码加速。
+              NSA支持端到端学习稀疏模式，避免传统方法「先训练后裁剪」的性能损失, 在确保模型性能的前提下大幅降低了预训练的计算量。实验证明，NSA 模型在通用理解、长文本检索和复杂数学推理任务中，同时大幅降低算力成本。
+              这一技术为长文档分析、代码生成和多轮对话等场景提供了更高效的底层支持，堪称大模型长文本处理的「瘦身加速器」。论文引起了国内外同行的广泛关注。
+              <a href="https://mp.weixin.qq.com/s/jpS3pr3fb1hslIUf7yAHeQ">[论文简介]</a>
+              <a href="https://arxiv.org/pdf/2502.11089">[论文链接]</a>
+              <a href="hhttps://baijiahao.baidu.com/s?id=1824397878188132708&wfr=spider&for=pc">[新浪财经]</a>
+              <a href="https://www.aibase.com/news/15486">[AINews报道]</a>
+              <a href="https://www.marktechpost.com/2025/02/18/deepseek-ai-introduces-nsa-a-hardware-aligned-and-natively-trainable-sparse-attention-mechanism-for-ultra-fast-long-context-training-and-inference/">[Marktechpost报道]</a>
+              <a href="https://medium.com/@lbq999/deepseek-unveils-new-research-native-sparse-attention-nsa-explained-75076212b90c">[Medium报道]</a>
+            </li>
+            <br />
+            <li>
               张铭老师团队于 AAAI2025 共有五篇高质量论文发表（AAAI2025 共收到12957篇投稿，其中3032篇被接受，接受率为23.4%）。
               <a href="https://dse.pku.edu.cn/news/xwdt/c8cdd9ceba9146dabf44c566eb6450c6.htm">[相关报道]</a><br />其中：<br />
               本组硕转博研究生赵禹昇、博士生罗钧宇等人合作发表的TRACI: A Data-centric Approach for Multi-Domain Generalization on
-              Graphs提出了从数据驱动的角度，生成虚拟对抗性和混合图样本，以增强GNN的泛化能力；<br />
+              Graphs提出了从数据驱动的角度，生成虚拟对抗性和混合图样本，以增强GNN的泛化能力。<br />
               <!-- <a href="https://openreview.net/pdf?id=M5ne8enLcr">[论文链接]</a><br /> -->
               本组硕转博研究生赵禹昇、博士生黄进晟、袁境阳等人合作发表的Attention Bootstrapping for Multi-modal Test-time Adaptation
               提出了提出了一种名为ABPEM的新方法，核心思想是解决“注意力差距”问题，即模态内部的自注意力和模态间的交叉注意力之间的差异。<br />
@@ -218,6 +235,7 @@
               Classification提出了将聚类的思想引入对比学习，从而提升类别不平衡图分类的性能。
               <a href="https://arxiv.org/abs/2412.12984">[论文链接]</a><br />
             </li>
+            <br />
             <li>
               本组硕士冯斌、博士刘泽群、硕士留学生Srbuhi Mirzoyan联合华盛顿大学助理教授王晟、博士后肖之屏和复旦大学教授徐盈辉等在国际顶尖人工智能期刊Nature Machine Intelligence
               （简称NMI，最新影响因子为18.8）上发表了题为：A bioactivity foundation model using pairwise meta-learning 的研究论文。
@@ -225,6 +243,7 @@
               <a href="https://mp.weixin.qq.com/s/-aHE36ppM_nQYDAizV6P6w">[论文简介]</a>
               <a href="https://www.nature.com/articles/s42256-024-00876-w">[论文链接]</a>
             </li>
+            <br />
             <li>
               本组博士生黄进晟等人在NAACL合作发表论文MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient
               Evaluation。
@@ -236,6 +255,7 @@
               <a href="https://github.com/chenllliang/MMEvalPro">[GitHub]</a>
               <a href="https://huggingface.co/datasets/MM-Diagnose/MMEvalPro">[数据集]</a>
             </li>
+            <br />
             <li>
               本组博士生杨君维联合华盛顿大学助理教授王晟、博士后肖之屏在国际顶尖人工智能期刊Nature Machine Intelligence
               （简称NMI，最新影响因子为18.8）上发表了题为：Poisoning medical knowledge using large language models 的研究论文。
